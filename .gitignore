@@ -5,5 +5,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.gitignore
 
 local_setting.py
+constants.js
+__pycache__
+notion_youtube_clipper/build
